@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "809664246301",
+    "project_id": "thriftygroceru",
+    "storage_bucket": "thriftygroceru.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809664246301:android:e17969b29f86208cbeccf4",
+        "android_client_info": {
+          "package_name": "com.example.thriftygroceru"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0wVF8kTq2mYHCemRLdN5PIa1l4EcIxPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
